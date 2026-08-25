@@ -2,7 +2,7 @@
 
 This directory contains the course project for Databases, implementing a complete database system for a **MasterChef cooking competition** management platform.
 
-**Partners:** Stroubakou Eirini, Fragkonikolaki Kyriaki
+**Partners:** Papadopoulos Charalampos, Fragkonikolaki Kyriaki
 
 ## Contents
 
